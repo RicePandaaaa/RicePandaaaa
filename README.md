@@ -40,7 +40,8 @@ Currently, my main interests specifically revolve around:
   - [Intro to Python textbook](https://github.com/RicePandaaaa/TonyIntroToPython): Interactive online textbook for learning and practicing the basics of Python
   - [@ricepandateaches YouTube](https://www.youtube.com/@ricepandateaches/): Developing a series on teaching Python fundamentals and coding tutorials
 - Previous Projects:
-  - [ENGR 102 Reviews](https://www.youtube.com/watch?v=I198gkjpnqE&list=PLISyINFRGf7ZQ6jvPNtmXOIR4q-9UGYE8&pp=gAQB): Exam review series for the freshmen computational course (ENGR 102) I helped teach at Texas A&M
+  - [ENGR 102 Notes](https://github.com/RicePandaaaa/TAMU-ENGR-102-Notes): Review notes for ENGR 102 (computation with Python) concepts in the form of PDFs and Jupyter Notebooks 
+  - [ENGR 102 Reviews](https://www.youtube.com/watch?v=I198gkjpnqE&list=PLISyINFRGf7ZQ6jvPNtmXOIR4q-9UGYE8&pp=gAQB): Exam review series for ENGR 102 I helped teach at Texas A&M
   - [Precalculus Review Series](https://www.youtube.com/watch?v=qJel1S3xqNE&list=PLISyINFRGf7an5UwX27hjwT-5-Rtw1BHp&pp=gAQB): Review series for pre-calculus for a class I helped mentor for [SEAS](https://engineering.tamu.edu/student-life/seas/index.html)
  
 ---
