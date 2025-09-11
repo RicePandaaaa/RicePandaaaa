@@ -23,7 +23,7 @@ Currently, my main interests specifically revolve around:
 ---
 
 **Machine Learning:** This is a relatively new field to me, and I have touched on it over the last couple years. However, with  my Master's thesis being centered on it (particularly deep neural networks), I have decided to take a deep dive into ML!
-- Current Project: TBD
+- Current Project: Developing a hybrid search system to better analyze individual and groups of course curricula
 - Previous Projects:
   - [Gesture](https://github.com/AxeFontaine/tamuhack25) - TAMUHack 2025 - created and trained a model using a self-made ASL alphabet dataset for backend
   - [ASL Detection project](https://github.com/RicePandaaaa/ASL-RNN-ApplyAI) - Apply AI (AI4All) - fine-tuned recurrent neural networks to identify words formed in American Sign Language
