@@ -40,5 +40,3 @@ Currently, my main interests specifically revolve around:
 **Teaching, Tutoring, and Their Strategies:** Teaching and tutoring are two of my greatest passions! To become a better educator though, it is important for me to learn more about the theory behind it all and work on tools that improve my quality of teaching.
 - Current Project:
   - [Canvas Grade Analyzer](https://github.com/RicePandaaaa/CanvasGradeAnalyzer): Web app for that visualizes and breaks down the gradebook data, that was exported from a Canvas course, with tables and charts
-- Previous Projects:
-  - Undergraduate Student Researcher - [BEAM lab](https://sites.google.com/view/beamresearchtamu/research?authuser=0) @ Texas A&M - helped collect data, prepare interviews, and read literature pertaining to how math education can be affected by one's beliefs, emotions, and attitudes 
