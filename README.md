@@ -7,15 +7,12 @@
 </p>
 
 ---
-- Self-taught **Python enthusiast** with 12+ years of personal programming experience
-- 9+ years as a teacher/tutor, recently 3 years at Texas A&M as a peer teacher for first-year engineering
-- Graduated in May 2025 with **Bachelor's in Multidisciplinary Engineering, Mechatronics Track**, from Texas A&M
-- Researcher in **educational psychology** and **engineering education**
-- Pursuing a **Master's of Science in Engineering Technology**
+- Self-taught **Python enthusiast**, been coding for fun for 13+ years
+- Tutoring and teaching on the side for 9+ years at the K-12 and collegiate levels
 --- 
 
 Currently, my main interests specifically revolve around:
-- machine learning (RAG, deep neural network)
+- machine learning
 - physical educational aids
 - online and virtual educational materials
 - teaching, tutoring, and their strategies
@@ -27,18 +24,12 @@ Currently, my main interests specifically revolve around:
 - Previous Projects:
   - [Gesture](https://github.com/AxeFontaine/tamuhack25) - TAMUHack 2025 - created and trained a model using a self-made ASL alphabet dataset for backend
   - [ASL Detection project](https://github.com/RicePandaaaa/ASL-RNN-ApplyAI) - Apply AI (AI4All) - fine-tuned recurrent neural networks to identify words formed in American Sign Language
----
- 
-**Physical Educational Aids:** As an undergrad, I learned a lot about robotics and related fields. Along with software, I have been looking more into creating more accessible learning aids!
-- Current Project:
-  - Flashcard Robot: Physical robot that helps sort and show flashcards using the spaced repetition learning method
 
 ---
 
-**Online and Virtual Educational Materials:** I am a big proponent in utilizing digital services to make learning materials more accessible! Currently I am tackling this through web apps and my YouTube channel!
+**Online and Virtual Educational Materials:** I am a big proponent in utilizing digital services to make learning materials more accessible! Currently I am tackling this through web apps and public repos!
 - Current Projects:
   - [Intro to Python textbook](https://github.com/RicePandaaaa/TonyIntroToPython): Interactive online textbook for learning and practicing the basics of Python
-  - [@ricepandateaches YouTube](https://www.youtube.com/@ricepandateaches/): Developing a series on teaching Python fundamentals and coding tutorials
 - Previous Projects:
   - [ENGR 102 Notes](https://github.com/RicePandaaaa/TAMU-ENGR-102-Notes): Review notes for ENGR 102 (computation with Python) concepts in the form of PDFs and Jupyter Notebooks 
   - [ENGR 102 Reviews](https://www.youtube.com/watch?v=I198gkjpnqE&list=PLISyINFRGf7ZQ6jvPNtmXOIR4q-9UGYE8&pp=gAQB): Exam review series for ENGR 102 I helped teach at Texas A&M
