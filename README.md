@@ -8,21 +8,24 @@
 
 ---
 
-<h3 align="center"> About Me </h3>
-- Self-taught **Python enthusiast**, been coding for fun for 13+ years
+<h3> About Me </h3>
+
+- Self-taught Python enthusiast, been coding for fun for 13+ years
 - Tutoring and teaching on the side for 9+ years at the K-12 and collegiate levels
 - Graduated in May 2025 with a Bachelor's of Science in Multidisciplinary Engineering (Mechatronics) at Texas A&M
 - Pursuing my Masters of Science in Engineering Technology at Texas A&M
 
 ---
-<h3 align="center"> Research Topics </h3>
+<h3> Research Topics </h3>
+
 - FMCW mmWave radar (focus in agriculture)
 - Analyzing radar signals with machine learning
 - Rewording human text for understanding by generative AI
 - AI tools in qualitative research for efficient data processing
 --- 
 
-<h3 align="center"> Main Interests </h3>
+<h3></h3> Main Interests </h3>
+
 - machine learning
 - physical educational aids
 - online and virtual educational materials
